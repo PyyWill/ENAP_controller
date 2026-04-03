@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+results/
+!results/checkpoints/
+!results/checkpoints/oracle_encoder.pt
+data/clustering/
+data/episodes_with_states.pkl
